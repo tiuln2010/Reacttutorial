@@ -1,4 +1,8 @@
-### The solution of official React tutorial. by. yesjin
+# The solution of official React tutorial. by. yesjin
+
+git clone 
+npm start
+open http://localhost:3000/
 
 ========================================================================
 
